@@ -19,14 +19,14 @@
 <ul>
 <li> 🔭 I’m currently working on *University Project*</li>  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<li> 📫 How to reach me *malshaashen20@gmail.com*</li>
+<li> 📫 How to reach me *manuga.dewhan@gmail.com*</li>
 </ul>
 <hr>
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/malsha ashen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malsha ashen" height="30" width="40" /></a>
-<a href="https://fb.com/malsha ashen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malsha ashen" height="30" width="40" /></a>
-<a href="https://instagram.com/malsha_ashen6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malsha_ashen6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malsha ashen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuga.dewhan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/manuga.dewhan?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manuga.dewhan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manuga.dewhan?igsh=MWh4eGpocnlhcnRzZQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuga.dewhan" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
