@@ -19,7 +19,7 @@
 <ul>
 <li> 🔭 I’m currently working on *University Project*</li>  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<li> 📫 How to reach me manuga.dewhan@gmail.com</li>
+<li> 📫 How to reach me <a href="mailto:manuga.dewhan@gmail.com">manuga.dewhan@gmail.com</a></li>
 </ul>
 <hr>
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
