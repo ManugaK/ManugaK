@@ -10,9 +10,9 @@
 
 <hr>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ManugaK&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManugaK&theme=tokyonight) |
+| ![Manuga's github stats](https://github-readme-stats.vercel.app/api?username=ManugaK&show_icons=true&theme=tokyonight) | ![Manuga GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManugaK&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MDMAshen&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManugaK&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ManugaK&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 <h3>MY TOPICS <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
 <hr>
